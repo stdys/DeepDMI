@@ -11,7 +11,7 @@ For making DeepDMI available at no cost to the community, we have set a **[web s
 
 ### Installation
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 ### Training
